@@ -1,5 +1,2 @@
 # proyecto_fisica_computacional
-# proyecto_fisica_computacional
-# proyecto_fisica_computacional
-# proyecto_fisica_computacional
-# proyecto_fisica_computacional
+
